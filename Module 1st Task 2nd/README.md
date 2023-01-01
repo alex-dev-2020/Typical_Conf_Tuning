@@ -28,7 +28,8 @@
           - только Документ `РеализацияТоваровУслуг`
         - Измерения с Комбинацией `Аналитика Учета ...`  
 - Запрос
-    - [1-я  итерация](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/220cefce6ea043dcebbddcd7a54d5d776df60338) 
+    - [1-я  итерация](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/220cefce6ea043dcebbddcd7a54d5d776df60338)
+    - [Создание ВТ](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/0bbddd7434b4793fe59d700d0a42ff1bee263480)  
 
 ###### Шаг 3
 - Объединяем ВТ из Шагов  1 & 2:
