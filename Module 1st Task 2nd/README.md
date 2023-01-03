@@ -45,4 +45,4 @@
 ##### Получение  значений Доп. реквизитов & Характеристик
 
 - [Добавлен Реквизит `Класс мебели`](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/5b299f0379490945edd79d68f611c3f7cca9d3e1) 
-- [Добавлен Реквизит `Типсырья`](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/f47a5cf9b57e6cb3acae0c3de918c24c86da9fbf)
+- [Добавлен Реквизит `Тип сырья`](https://github.com/alex-dev-2020/Typical_Conf_Tuning/commit/f47a5cf9b57e6cb3acae0c3de918c24c86da9fbf)
